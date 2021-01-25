@@ -16,6 +16,7 @@ class CheckUser
      */
     public function handle(Request $request, Closure $next)
     {
+        echo "Checkuser middleware is applied on this route";
         return $next($request);
     }
 }

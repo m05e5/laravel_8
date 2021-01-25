@@ -145,3 +145,30 @@ Use '--' to separate paths from revisions, like this:
 > git check-ignore -v -z --stdin
 > git show :app/Http/Controllers/LoginController.php
 > git ls-files --stage -- app/Http/Controllers/
+> git show :app/Http/Controllers/LoginController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :app/Http/Middleware/CheckUser.php
+> git show :app/Http/Kernel.php
+> git show :app/Http/Controllers/ClientController.php
+> git check-ignore -v -z --stdin
+> git show :routes/web.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :app/Http/Kernel.php
+> git show :routes/web.php
