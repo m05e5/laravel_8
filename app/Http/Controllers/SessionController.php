@@ -28,7 +28,7 @@ class SessionController extends Controller
 
         public function deleteSessionData(Request $request)
         {
-            $request->session()->froget('name');
+            $request->session()->forget('name');
             echo "Data has been removed from the session";
         }
 

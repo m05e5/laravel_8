@@ -1,0 +1,153 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/laravel8pro
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :.env
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git check-ignore -v -z --stdin
+> git show :config/view.php
+> git check-ignore -v -z --stdin
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -v -z --stdin
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -v -z --stdin
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :app/Http/Controllers/SessionController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/SessionController.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/single-post.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -v -z --stdin
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/single-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/single-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/add-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/single-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/single-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :resources/views/posts.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git ls-files --stage -- app/Http/Controllers/

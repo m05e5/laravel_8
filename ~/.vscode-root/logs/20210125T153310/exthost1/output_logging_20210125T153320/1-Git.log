@@ -30,3 +30,22 @@ fatal: aucune branche amont configurée pour la branche 'master'
 > git show :routes/web.php
 > git show :app/Http/Controllers/SessionController.php
 > git show :routes/web.php
+> git status -z -u
+> git show :routes/web.php
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :routes/web.php
+> git show :app/Http/Controllers/SessionController.php

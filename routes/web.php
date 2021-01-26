@@ -7,6 +7,7 @@ use App\Http\Controllers\ClientController;
 use App\Http\Controllers\FluentController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\SessionController;
+use App\Http\Controllers\PostController;
 
 /*
 |--------------------------------------------------------------------------
@@ -48,3 +49,15 @@ Route::get('/session/get',[SessionController::class,'getSessionData'])->name('se
 Route::get('/session/set',[SessionController::class,'storeSessionData'])->name('session.store');
 
 Route::get('/session/remove',[SessionController::class,'deleteSessionData'])->name('session.delete');
+
+Route::get('/posts',[PostController::class,'getAllPost'])->name('post.getAllPost');
+
+Route::get('add-post',[PostController::class,'addPost'])->name('post.add');
+
+Route::get('edit-post',[PostController::class,'editPost'])->name('post.edit');
+
+Route::get('/delete-post/{id}',[PostController::class,'deletePost'])->name('post.delete');
+
+Route::post('add-post',[PostController::class,'addPostSubmit'])->name('post.addSubmit');
+
+Route::get('/posts/{id}',[PostController::class, 'getPostById'])->name('post.getbyid');
