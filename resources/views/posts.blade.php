@@ -39,7 +39,8 @@
                                             <td>{{$post->title}}</td>
                                             <td>{{$post->body}}</td>
                                             <td>
-                                                <a href="/posts/{{$post->id}}" class="btn btn-success">view</a>
+                                                <a href="/posts/{{$post->id}}" class="btn btn-success">View</a>
+                                                <a href="/edit-post/{{$post->id}}" class="btn btn-info">Edit</a>
                                                 <a href="/delete-post/{{$post->id}}" class="btn btn-danger">Delete</a>
                                             </td>
                                             

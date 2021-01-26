@@ -151,3 +151,90 @@ fatal: aucune branche amont configurée pour la branche 'master'
 > git ls-files --stage -- resources/views/
 > git show :app/Http/Controllers/PostController.php
 > git ls-files --stage -- app/Http/Controllers/
+> git status -z -u
+> git show :app/Http/Controllers/PostController.php
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :resources/views/posts.blade.php
+> git show :resources/views/add-post.blade.php
+> git show :resources/views/components/header.blade.php
+> git show :resources/views/add-post.blade.php
+> git show :stubs/migration.create.stub
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :stubs/migration.create.stub
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -v -z --stdin
+> git show :resources/views/single-post.blade.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/single-post.blade.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/add-post.blade.php
+> git show :stubs/migration.create.stub
+> git show :resources/views/add-post.blade.php
+> git show :resources/views/posts.blade.php
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/SessionController.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/posts.blade.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/posts.blade.php
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/edit-post.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :resources/views/single-post.blade.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php

@@ -1,3 +1,4 @@
+file:///opt/lampp/htdocs/laravel8pro/app/Http/Controllers/PostController.php {"mtime":1611661233517,"size":1454,"etag":"36cdpll4k1fs","orphaned":false}
 <?php
 
 namespace App\Http\Controllers;
@@ -48,6 +49,10 @@ class PostController extends Controller
             'body' => $request->body
         ]);
         return back()->with('post_updated','Post has been updatesd successfully');
+    }
+    public function innerJoinClause()
+    {
+        
     }
    
 }
