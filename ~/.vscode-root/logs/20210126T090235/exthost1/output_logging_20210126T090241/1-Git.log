@@ -238,3 +238,44 @@ fatal: aucune branche amont configurée pour la branche 'master'
 > git show :app/Http/Controllers/PostController.php
 > git show :routes/web.php
 > git show :app/Http/Controllers/PostController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Controllers/PostController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git check-ignore -v -z --stdin
+> git show :app/Models/Post.php
+> git ls-files --stage -- app/Models/
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Models/Post.php
+> git ls-files --stage -- app/Models/
+> git show :app/Http/Controllers/PostController.php
+> git show :routes/web.php
+> git show :app/Http/Controllers/PostController.php

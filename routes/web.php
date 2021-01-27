@@ -63,3 +63,11 @@ Route::post('add-post',[PostController::class,'addPostSubmit'])->name('post.addS
 Route::get('/posts/{id}',[PostController::class, 'getPostById'])->name('post.getbyid');
 
 Route::post('/update-post',[PostController::class,'updatePost'])->name('post.update');
+
+Route::get('/inner-join',[PostController::class,'innerJoinClause'])->name('post.innerJoinClause');
+
+Route::get('/left-join',[PostController::class,'leftJoinClause'])->name('post.leftJoin');
+
+Route::get('/right-join',[PostController::class,'rightJoinClause'])->name('post.rightJoin');
+
+Route::get('/all-posts',[PostController::class,'getAllPostUsingModel'])->name('post.getallpostusingmodel');
