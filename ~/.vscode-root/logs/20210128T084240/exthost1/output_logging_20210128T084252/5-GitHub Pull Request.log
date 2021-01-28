@@ -1,0 +1,18 @@
+[Info] /home/multicanalservices/.ssh/config: ENOENT: no such file or directory, open '/home/multicanalservices/.ssh/config'
+[Info] Looking for git repository
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] No remote with name 'origin' found. Please update your 'githubPullRequests.remotes' setting.
+[Info] No remote with name 'upstream' found. Please update your 'githubPullRequests.remotes' setting.
+[Info] No GitHub remotes found
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] Review> no matching pull request metadata found for current branch master
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] No remote with name 'upstream' found. Please update your 'githubPullRequests.remotes' setting.
+[Info] Found GitHub remote
+[Info] Review> no matching pull request metadata found for current branch master

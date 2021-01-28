@@ -1,0 +1,36 @@
+[2021-01-28 08:42:49.393] [exthost] [info] extension host started
+[2021-01-28 08:42:49.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-28 08:42:49.477] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-28 08:42:49.649] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-28 08:42:49.649] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2021-01-28 08:42:49.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-01-28 08:42:49.704] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-01-28 08:42:49.864] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-28 08:42:49.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2021-01-28 08:42:49.893] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2021-01-28 08:42:49.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/donjayamanne.githistory-0.6.14/dist/src/extension
+[2021-01-28 08:42:49.987] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2021-01-28 08:42:49.987] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/eamodio.gitlens-10.2.3/dist/extension
+[2021-01-28 08:42:50.130] [exthost] [info] ExtensionService#_doActivateExtension huizhou.githd {"startup":true,"extensionId":{"value":"huizhou.githd","_lower":"huizhou.githd"},"activationEvent":"*"}
+[2021-01-28 08:42:50.130] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/huizhou.githd-2.1.0/out/src/extension
+[2021-01-28 08:42:50.691] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2021-01-28 08:42:50.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/mhutchie.git-graph-1.28.0/out/extension.js
+[2021-01-28 08:42:51.577] [exthost] [info] ExtensionService#_doActivateExtension vespa-dev-works.vscode-git-remote {"startup":true,"extensionId":{"value":"vespa-dev-works.vscode-git-remote","_lower":"vespa-dev-works.vscode-git-remote"},"activationEvent":"*"}
+[2021-01-28 08:42:51.577] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/vespa-dev-works.vscode-git-remote-0.0.12/out/src/extension
+[2021-01-28 08:42:51.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-01-28 08:42:51.944] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2021-01-28 08:42:52.639] [exthost] [info] eager extensions activated
+[2021-01-28 08:42:52.745] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-01-28 08:42:52.745] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/github.vscode-pull-request-github-0.14.0/media/extension
+[2021-01-28 08:45:17.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-01-28 08:45:17.583] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2021-01-28 08:59:01.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-01-28 08:59:01.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2021-01-28 08:59:01.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-01-28 08:59:01.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2021-01-28 08:59:01.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-01-28 08:59:01.980] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2021-01-28 08:59:12.222] [exthost] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"extensionId":{"value":"onecentlin.laravel-blade","_lower":"onecentlin.laravel-blade"},"activationEvent":"onLanguage:blade"}
+[2021-01-28 08:59:12.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/onecentlin.laravel-blade-1.20.0/out/src/extension
+[2021-01-28 08:59:31.857] [exthost] [info] ExtensionService#_doActivateExtension austenc.laravel-blade-spacer {"startup":false,"extensionId":{"value":"austenc.laravel-blade-spacer","_lower":"austenc.laravel-blade-spacer"},"activationEvent":"*"}
+[2021-01-28 08:59:31.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/austenc.laravel-blade-spacer-2.1.2/out/extension

@@ -1,0 +1,20 @@
+[2021-01-28 08:42:46.188] [sharedprocess] [info] main {"machineId":"9bee0f72e902aafe60d6ac168ecaee6ce7844c777cb5d04ffbe81b9b1421ea85","windowId":2}
+[2021-01-28 08:43:26.159] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-28 08:59:03.549] [sharedprocess] [info] Installing extension: onecentlin.laravel-blade
+[2021-01-28 08:59:09.915] [sharedprocess] [info] Downloaded extension: onecentlin.laravel-blade /tmp/a11e0e03-78d3-43e6-bf19-7f3c975ea9cb
+[2021-01-28 08:59:11.958] [sharedprocess] [info] Extracted extension to /home/multicanalservices/.vscode/extensions/.onecentlin.laravel-blade-1.20.0: onecentlin.laravel-blade
+[2021-01-28 08:59:11.958] [sharedprocess] [info] Renamed to /home/multicanalservices/.vscode/extensions/onecentlin.laravel-blade-1.20.0
+[2021-01-28 08:59:11.959] [sharedprocess] [info] Installation completed. onecentlin.laravel-blade
+[2021-01-28 08:59:12.006] [sharedprocess] [info] Extensions installed successfully: onecentlin.laravel-blade
+[2021-01-28 08:59:30.665] [sharedprocess] [info] Installing extension: austenc.laravel-blade-spacer
+[2021-01-28 08:59:31.662] [sharedprocess] [info] Downloaded extension: austenc.laravel-blade-spacer /tmp/c15cb61c-ae83-4c9f-b855-da825cfbee85
+[2021-01-28 08:59:31.684] [sharedprocess] [info] Extracted extension to /home/multicanalservices/.vscode/extensions/.austenc.laravel-blade-spacer-2.1.2: austenc.laravel-blade-spacer
+[2021-01-28 08:59:31.684] [sharedprocess] [info] Renamed to /home/multicanalservices/.vscode/extensions/austenc.laravel-blade-spacer-2.1.2
+[2021-01-28 08:59:31.685] [sharedprocess] [info] Installation completed. austenc.laravel-blade-spacer
+[2021-01-28 08:59:31.721] [sharedprocess] [info] Extensions installed successfully: austenc.laravel-blade-spacer
+[2021-01-28 08:59:38.212] [sharedprocess] [info] Installing extension: cjhowe7.laravel-blade
+[2021-01-28 08:59:38.857] [sharedprocess] [info] Downloaded extension: cjhowe7.laravel-blade /tmp/6778bbc3-4531-4a01-be42-8e5a1655c341
+[2021-01-28 08:59:38.881] [sharedprocess] [info] Extracted extension to /home/multicanalservices/.vscode/extensions/.cjhowe7.laravel-blade-1.1.2: cjhowe7.laravel-blade
+[2021-01-28 08:59:38.881] [sharedprocess] [info] Renamed to /home/multicanalservices/.vscode/extensions/cjhowe7.laravel-blade-1.1.2
+[2021-01-28 08:59:38.882] [sharedprocess] [info] Installation completed. cjhowe7.laravel-blade
+[2021-01-28 08:59:38.916] [sharedprocess] [info] Extensions installed successfully: cjhowe7.laravel-blade

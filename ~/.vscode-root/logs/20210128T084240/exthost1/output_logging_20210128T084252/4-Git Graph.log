@@ -1,0 +1,8 @@
+[2021-01-28 08:42:52.391] Starting Git Graph ...
+[2021-01-28 08:42:52.472] Using git (version: 2.7.4)
+[2021-01-28 08:42:52.499] Started Git Graph - Ready to use!
+[2021-01-28 08:42:52.502] Searching workspace for new repos ...
+[2021-01-28 08:42:52.530] > git rev-parse --show-toplevel
+[2021-01-28 08:42:52.634] Added new repo: /opt/lampp/htdocs/laravel8pro
+[2021-01-28 08:42:52.690] Completed searching workspace for new repos
+[2021-01-28 08:42:52.690] Showing "Git Graph" Status Bar Item
